@@ -1,0 +1,59 @@
+body{
+  background-color: #c7f9cc;
+  font-family: fantasy;
+  margin: 10px;
+  align-items: center;
+  
+}
+.tudo{
+  padding: 2%;
+  
+}
+h1{
+  font-style: italic;
+  text-align: center;
+}
+.topo{
+  background-image: linear-gradient(#22577a, #80ed99);
+  font-weight: 900;
+  border-radius: 25%;
+  position: fixed; 
+  height: 370px;
+  
+
+}
+.topcos{
+  margin-right: 15%;
+  margin-top: 50px;
+  font-size: medium;
+
+}
+.foto{
+  float: left;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  width:20%;
+  margin-right: 10%;
+  
+}
+
+.descrição{
+  padding: 20px;
+  margin-top: 370px;
+  margin-left: 25px;
+  height: 500px;
+  overflow: scroll;
+  
+} 
+.Caracteristicas{
+  
+
+}
+.Descrição{
+  width: 500px ;
+}
+
+
+
+
+
