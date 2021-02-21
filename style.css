@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(7, 148, 148);
+  font-family: fantasy;
+  margin: 10px;
+  
+}
+.tudo{
+  
+  
+}
+h1{
+  font-style: italic;
+  text-align: center;
+}
+.topo{
+  background-color: rgb(109, 221, 187);
+  font-weight: 900;
+  border-radius: 25%;
+  position: fixed; 
+  height: 370px;
+  
+
+}
+.topcos{
+  margin-right: 15%;
+  margin-top: 50px;
+  font-size: medium;
+
+}
+.foto{
+  float: left;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  width:20%;
+  
+  margin-right: 10%;
+  
+}
+
+.descrição{
+
+  position: fixed; 
+  margin-top: 350px;
+  margin-left: 25px;
+  
+ 
+  
+
+} 
+.mim{
+  width: 500px ;
+}
+
+
+
+
+
