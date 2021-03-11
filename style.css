@@ -1,8 +1,9 @@
 body{
   background-color: #c7f9cc;
-  font-family: fantasy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin: 10px;
   align-items: center;
+  font-size: 1.2em;
   
 }
 .tudo{
@@ -25,13 +26,13 @@ h1{
 .topcos{
   margin-right: 15%;
   margin-top: 50px;
-  font-size: medium;
+  
 
 }
 .foto{
   float: left;
   margin-left: 10%;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
   width:20%;
   margin-right: 10%;
   
@@ -41,7 +42,7 @@ h1{
   padding: 20px;
   margin-top: 370px;
   margin-left: 25px;
-  height: 500px;
+  height: 480px;
   overflow: scroll;
   
 } 
